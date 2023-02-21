@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramindu-git&label=Profile%20views&color=0e75b6&style=flat" alt="ramindu-git" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap**
 
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **ramindunimesh61@gmail.com**
 
 
 
