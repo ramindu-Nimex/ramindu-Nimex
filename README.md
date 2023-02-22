@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-
+- 📫 How to reach me **ramindunimesh61@gmail.com**
 
 
 
