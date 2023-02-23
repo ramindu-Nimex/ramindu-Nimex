@@ -47,6 +47,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramindu-git&" alt="ramindu-git&theme=dark" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramindu-git&" alt="ramindu-git" /></p>
 
 
