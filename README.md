@@ -9,7 +9,7 @@
   <a href="https://twitter.com/ramindu_nimesh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://instagram.com/[in/ramindu-nimesh/](https://www.instagram.com/ramiyh._____/)">
+  <a href="https://www.instagram.com/ramiyh._____/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
