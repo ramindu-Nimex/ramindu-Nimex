@@ -9,6 +9,9 @@
   <a href="https://twitter.com/ramindu_nimesh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://github.com/ramindu-git">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
   <a href="https://www.instagram.com/ramiyh._____/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
