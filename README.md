@@ -9,14 +9,14 @@
   <a href="https://twitter.com/ramindu_nimesh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://github.com/ramindu-git">
+  <a href="https://github.com/IT22577160">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://www.instagram.com/ramiyh._____/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=ramindu-git&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=IT22577160&style=flat-square&color=blue" alt=""/>
 
 <h1>
   hey there
@@ -53,6 +53,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ramindu-git&theme=dark&background=000000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT22577160&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramindu-git&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT22577160&layout=compact&theme=vision-friendly-dark)
