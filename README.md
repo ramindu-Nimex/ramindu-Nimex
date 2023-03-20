@@ -52,5 +52,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT22577160&theme=dark&background=000000)
+<br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IT22577160&show_icons=true&count_private=true&hide_border=true&theme=dark&background=000000" align="left" />
