@@ -54,11 +54,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT22577160&theme=dark&background=#000)
 <br>
 
-<p float="left">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT22577160&show_icons=true&count_private=true&hide_border=true&theme=dark&background=#000&color=#fff" />  -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT22577160&show_icons=true&theme=dark" /> 
-
-
-<!-- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IT22577160&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> -->
-</p>
