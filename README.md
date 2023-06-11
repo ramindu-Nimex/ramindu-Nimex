@@ -9,7 +9,7 @@
   <a href="https://twitter.com/ramindu_nimesh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://github.com/IT22577160">
+  <a href="https://github.com/ramindu-Nimex">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://www.instagram.com/ramiyh._____/">
@@ -60,12 +60,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- Begin Stats Cards -->
 <div class="stats" align="center">
 
-![Ramindu Nimeshe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT22577160&hide=stars&count_private=true&_public=true_&show_icons=true&theme=algolia&border_radius=20)
+![Ramindu Nimeshe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramindu-Nimex&hide=stars&count_private=true&_public=true_&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IT22577160&count_private=true&public=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=ramindu-Nimex&count_private=true&public=true&theme=algolia&border_radius=20)
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT22577160&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramindu-Nimex&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!-- 
 
