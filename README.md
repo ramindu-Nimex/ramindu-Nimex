@@ -60,13 +60,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- Begin Stats Cards -->
 <div class="stats" align="center">
 
-![Ramindu Nimeshe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramindu-Nimex&hide=stars&count_private=true&_public=true_&show_icons=true&theme=algolia&border_radius=20)
+<!-- ![Ramindu Nimeshe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramindu-Nimex&hide=stars&count_private=true&_public=true_&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ramindu-Nimex&count_private=true&public=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=ramindu-Nimex&count_private=true&public=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramindu-Nimex&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramindu-Nimex&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div> -->
 <!-- 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT22577160&theme=dark&background=#000)
@@ -74,3 +74,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <img width="300em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IT22577160&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> -->
 
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramindu-Nimex&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ramindu github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramindu-Nimex&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
+  | ------------- | ------------- |
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=ramindu-Nimex&count_private=true&public=true&theme=algolia&border_radius=20)
