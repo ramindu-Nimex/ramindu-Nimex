@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow Badge"/>
   </a>
   <a href="https://medium.com/@ramindunimesh61">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=IT22577160&style=flat-square&color=blue" alt=""/>
