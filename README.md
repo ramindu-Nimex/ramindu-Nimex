@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="./image.png" width="100"/>
-</div>
+</div> -->
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ramindu-nimesh/">
@@ -30,7 +30,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="./image.png" width="100%" />
 </div>
 
 ---
