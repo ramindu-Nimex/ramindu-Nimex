@@ -37,18 +37,20 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+<p><img  align="right" top="0" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.<br>
 
-- :seedling: Exploring Technical Content.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles..
+- :seedling: Exploring Technical Content.<br>
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles..<br>
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramindu-nimesh/) , **ramindunimesh61@gmail.com**
-
+<br><br><br><br><br><br><br><br>
 ---
-
+<br><br>
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
