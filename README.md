@@ -84,3 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   | ------------- | ------------- |-->
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=ramindu-Nimex&count_private=true&public=true&theme=algolia&border_radius=20) 
+  
+---
+<h3 align="left">☑️ Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ramindunimesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RaminduNimex" /></a></p>
