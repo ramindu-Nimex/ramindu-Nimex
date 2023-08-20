@@ -21,6 +21,9 @@
   <a href="https://medium.com/@ramindunimesh61">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
+  <a href="https://www.hackerrank.com/ramindunimesh61">
+    <img src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank Badge"/>
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=IT22577160&style=flat-square&color=blue" alt=""/>
 
