@@ -80,13 +80,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/> 
     </a> 
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img  alt="spring" height="50px" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Spring-Dark.svg"/>
+      <img  alt="spring" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Spring-Dark.svg" width="50" height="50"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> 
     </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="TypeScript" height="50px" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/TypeScript.svg"/>
+      <img  alt="TypeScript" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50"/>
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> 
@@ -122,19 +122,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> 
     </a> -->
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="50px" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Firebase-Dark.svg"/>
+      <img  alt="firebase" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50" height="50"/>
     </a>
     <!--<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
       <img  alt="NPM" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
     </a>-->
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img  alt="TailwindCSS" height="50px" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>
+      <img  alt="TailwindCSS" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="50" height="50"/>
     </a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img  alt="Sass" height="50px" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Sass.svg"/> 
+      <img  alt="Sass" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Sass.svg" width="50" height="50"/> 
     </a> 
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="Kotlin" height="50px"src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Kotlin-Dark.svg"/>
+      <img  alt="Kotlin" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50" height="50"/>
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Redux.svg" alt="redux" width="50" height="50"/> 
@@ -149,7 +149,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> 
     </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-      <img  alt="Figma" height="50px" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Figma-Dark.svg"/> 
+      <img  alt="Figma" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Figma-Dark.svg" width="50" height="50"/> 
     </a> 
     <!--<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
